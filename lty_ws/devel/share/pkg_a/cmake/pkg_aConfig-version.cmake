@@ -1,0 +1,1 @@
+/home/lty/learning_records/lintianyu/lty_ws/devel/.private/pkg_a/share/pkg_a/cmake/pkg_aConfig-version.cmake
