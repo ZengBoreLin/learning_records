@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target talker[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/talker.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ye/rm_ws/devel/.private/pkg_a/lib/pkg_a/talker[0m
+[100%] Built target talker
