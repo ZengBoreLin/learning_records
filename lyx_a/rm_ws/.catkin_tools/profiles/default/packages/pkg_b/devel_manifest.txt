@@ -1,0 +1,6 @@
+pkg_b
+/home/l/rm_ws/devel/.private/pkg_b/cmake.lock /home/l/rm_ws/devel/./cmake.lock
+/home/l/rm_ws/devel/.private/pkg_b/share/pkg_b/cmake/pkg_bConfig-version.cmake /home/l/rm_ws/devel/share/pkg_b/cmake/pkg_bConfig-version.cmake
+/home/l/rm_ws/devel/.private/pkg_b/share/pkg_b/cmake/pkg_bConfig.cmake /home/l/rm_ws/devel/share/pkg_b/cmake/pkg_bConfig.cmake
+/home/l/rm_ws/devel/.private/pkg_b/lib/pkg_b/listener /home/l/rm_ws/devel/lib/pkg_b/listener
+/home/l/rm_ws/devel/.private/pkg_b/lib/pkgconfig/pkg_b.pc /home/l/rm_ws/devel/lib/pkgconfig/pkg_b.pc

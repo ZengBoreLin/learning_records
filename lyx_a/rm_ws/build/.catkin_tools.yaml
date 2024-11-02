@@ -1,0 +1,6 @@
+devel_space: /home/l/rm_ws/devel
+install: false
+install_space: /home/l/rm_ws/install
+profile: default
+source_space: /home/l/rm_ws/src
+workspace: /home/l/rm_ws
