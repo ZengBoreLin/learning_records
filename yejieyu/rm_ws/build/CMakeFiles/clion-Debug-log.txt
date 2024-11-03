@@ -1,0 +1,16 @@
+/opt/clion/clion-2024.2.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/clion-2024.2.3/bin/ninja/linux/x64/ninja -DCATKIN_DEVEL_PREFIX=../devel -G Ninja -S /home/ye/rm_ws/src -B /home/ye/rm_ws/build
+CMake Deprecation Warning at CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Error at CMakeLists.txt:65 (message):
+  find_package(catkin) failed.  catkin was neither found in the workspace nor
+  in the CMAKE_PREFIX_PATH.  One reason may be that no ROS setup.sh was
+  sourced before.
+
+
+-- Configuring incomplete, errors occurred!

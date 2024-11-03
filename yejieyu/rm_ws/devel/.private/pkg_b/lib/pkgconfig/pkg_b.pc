@@ -1,0 +1,8 @@
+prefix=/home/ye/rm_ws/devel/.private/pkg_b
+
+Name: pkg_b
+Description: Description of pkg_b
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp
